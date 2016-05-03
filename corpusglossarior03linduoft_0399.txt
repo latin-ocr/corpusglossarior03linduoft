@@ -1,0 +1,122 @@
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+’ 40
+
+HERMEN EVM ATA STEPHANI
+
+ordeum κριθάριον
+spelta ὄλυρα
+
+alica χόνδρος
+legumen ὄςπριον
+faba solida κύαμος
+faba fresa ἐρεγμός
+lenticula φακῆ
+pesum πιςός
+
+cicer ἐρέβινθος
+milium κέγχρος
+aerum ὄροβος
+uiccia ἀφάκη
+auena βρόμος
+lupini θέρμοι
+fenumgraecum τῆλις
+papauer μήκων
+git μελάνθιον
+fenum χόρτος
+paleae ἄχυρα
+fenile χορτοβολών
+herba βοτάνη
+columhare περιςτερεών
+uilicus οἰκονόμος
+saltuarius ἀγροφύλαξ
+colonus γεωργός
+rusticus ἄγροικος
+circitor κυκλευτής
+exactor ἀπαιτητής
+operarius ἐργάτης
+mercenarius μιςθωτός
+indigena ἐγχώριος
+aratrum ἄροτρον
+riuus ῥεῖθρον
+carrum ἅμαξα
+timo ῥυμός
+
+iugum ζυγόν
+rotae τροχοί
+cantus ἐπίςωτρον
+betus παλαιόν
+axes ἄξονες
+capsum* πλινθίον
+
+ferramenta ἐργαλεῖα
+uinitor ἀμπέλων
+putatores κλαδευταί
+fossores ςκαφευταί
+uinitores ἀμπελουργοί
+uindemiatores τρυγηταί
+propagatio προκατορυγμός
+uua ςταςρυλή
+racemus βότρυς
+maturum ὥριμον
+immaturum ἄωρον
+grana ῥῶγες
+
+cofinus κόφινος
+cisterna δεξαμενή
+calcatorium ληνός
+mustum γλεῦκος
+dulci πίθοι
+
+oliuetum ἐλαιών
+uindimia τρυγητός
+uindimiat τρυγᾶται
+horti κῆποι
+
+areae πραςιαί
+apiarium μελιςςαιον
+apes μέλιςςαι
+
+mel μέλι
+
+pomerium παράδειςος
+pastor ποιμήν
+caprarius αἰπόλος
+subulcus ςυοφορβός
+porcarius χοιροβοςκός
+asinarius ὀνηλάτης
+equitiarius ἱπποκόμος
+armentarius βουκόλος
+armenta βουκόλια
+bobile βούςταςις
+equile ἱππόςταςις
+ouile ἔπαυλις αιλεαι
+auriga ἡνίοχος
+agitator ἐλατήρ
+uomer ὕνις
+stumbulum κέντρον
+
+357
+
+45
+
+50
+
+*30
+
+70
+
+75
+
+80
+

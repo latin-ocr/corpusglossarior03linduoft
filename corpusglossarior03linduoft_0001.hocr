@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusglossarior03linduoft_0001.png"; bbox 0 0 2232 3585; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 167 400 199 806">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 167 400 199 806">
+     <span class='ocr_line' id='line_1_1' title="bbox 167 400 199 806; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 173 629 199 806; x_wconf 73' lang='grc' dir='ltr'>υΝΙνΕΗΞΙΤΥ</span> <span class='ocrx_word' id='word_1_2' title='bbox 172 570 192 606; x_wconf 74' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_3' title='bbox 167 400 190 546; x_wconf 68' lang='grc' dir='ltr'>ΤΟΗΟΝΤΟ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 318 353 374 661">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 318 353 374 661">
+     <span class='ocr_line' id='line_1_2' title="bbox 318 353 374 661; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 318 353 374 661; x_wconf 77' lang='grc'>01741274</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 126 166 416 980">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 126 166 416 980">
+     <span class='ocr_line' id='line_1_3' title="bbox 126 166 416 980; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 126 166 416 980; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 191 274 364 349">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 191 274 364 349">
+     <span class='ocr_line' id='line_1_4' title="bbox 191 274 364 349; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 191 274 364 349; x_wconf 59' lang='lat' dir='ltr'>me</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,142 @@
+356
+
+catelli γαλεοί
+oclata μελάνουρος
+murices κήρυκες
+gobio κωβιός
+
+5 scillae καρίδες
+
+10
+
+15
+
+25
+
+30
+
+balaena φώκη
+murina ἅλμη
+lacerti κολοι
+pelamides πολιπος
+melmarinum ἀφύαι
+conciliae λανδες
+
+de agricultura περὶ γεωγίας
+
+ager ἀγρός
+
+casa καλύβη
+
+silua ὕλη
+
+lucus ἄλςος
+segetes ἄρουραι
+spica ςτὰχυς
+frumentum πυρός
+
+<2 triticum ςῑτος
+
+ordeum κριθή
+lenticula φακή
+cicer ἐρέβινθος
+papauer μήκων
+pratum λειμών
+foenum χόρτος
+maimue δέςμη
+uindemia τρυγητός
+torculare ληνός
+granarium ςιτοβολών
+ortum κῆπος
+rusticae ἄγροικοι
+operarii ἐργάται
+fossor ςκαφεύς
+
+35 grex ἀγέλη
+
+pastor ποιμήν
+saltuarius ἀγροφύλαξ
+circitor κελευτης
+
+HERMENEVMATA STEPHANI
+
+agricultura γεωργία 4ο
+
+ager ἀγρός
+
+salubris ὑγεινός
+
+predium χωρίον
+
+possessiones κτήματα, χώρα
+
+regio frugifera, fertilis χώρα καρ- 45
+ποφόρος, εὔφορος
+
+iugera πλέθρα
+
+nemus νάπη
+
+pascua νομή
+
+pratum λειμών
+
+silua ὕλη 50
+
+saltus δρυμοί
+
+campus πεδίον
+
+mons ὄρος
+
+speculatio ςκοπιή
+
+praeceps κρημνός 55
+
+uallis κοιλάς
+
+colles βουνοί
+
+terminus ὅρος
+
+fines ὅρια
+
+spelunca ςπήλαιον co
+
+saxa πέτρα
+
+ripa ὄχθος
+
+precipitia κρημνοί
+
+glebae βῶλοι
+
+lucus ἄλςος 65
+
+semen ςπέρμα
+
+seminatio ςπόρος
+
+spicae ςτάχυες
+
+seges λήϊον
+
+fructum maturum, immaturum καρ- ‘10
+πόν ὥριμον, ἄωρον
+
+messis θεριςμός
+
+messores Θεριςταί
+
+mannae δέςμαι
+
+manipuli δράγματα
+
+aceruus Θημών 75
+
+granarium ςιτοβολών
+
+granum κόκκος
+
+iterum de agricultura περὶ γεωργίας frumentum ςῑτος
+

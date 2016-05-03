@@ -1,0 +1,125 @@
+352 HERMENEVMATA STEPHANI
+
+scola ςχολή
+auditorium ἀκροατήριον
+auditores ἀκροαταί
+magister διδάςκαλος
+
+5 praeceptor καθηγητής
+doctor ἑπιςτάτης
+doctrina διδαςκαλία
+discipuli μαθηταί
+discipulae μαθήτριαι
+
+10 disciplina ἀγωγή
+condiscipuli ςυμμαθηταί
+pueri παῖδες
+puellae κόραι
+uirgines παρθένοι
+
+ιῑ» eruditio παιδεία
+industria φιλοπονία
+docet bene διδάςκει καλῶς
+exercet γυμνάζει
+exponit ἐκτίθηςι
+
+20 librum βιβλίον
+manuale ἀναλογιον
+litterae γράμματα
+syllabae ςυλλαβαί
+uersus ςτίχος
+
+25 pagina ςελίς
+capitulum κεφάλαιον
+scriptura γραφή
+lectio ἀνάγνωςις
+fabulae μῦθοι
+
+30 sententia ἀπόφαςις
+prouerbium παροίμιον
+narratio διήγηςις
+oratio εὐχή
+figura ςχῆμα
+
+35 poeta ποιητής
+orator ῥήτωρ
+accinctus πρόςΖωςτος
+similitudo ὁμοίωςις
+pronuntiatio ὑπόκριςις
+
+⁴0 comparatio >ι’ςυυςις
+parabole προοίμιον
+
+laus ἐνκώμιον
+
+de militia περὶ ςτρατείας
+castra παρεμβολή
+milites ςτρατιῶται
+pedites πεζοί
+
+equites ἱππεῖς
+sagittarii τοξόται
+desertores λειποτάκται
+speculatores κατόπται
+tesserarii γραμματεῖς
+signiferi ςημειοφόροι
+dux ἡγεμών
+praefectus ἔπαρχος
+tribunus δήμαρχος, χιλίαρχος
+centurio ἑκατόνταρχος
+euocatus ταξίαρχος
+decurio δεκάδαρχος
+pax εἰρήνη
+
+exercitus ςτράτευμα
+legio τάξις, θέμα
+lancea λόγχη
+
+hasta δόρυ
+
+iaculum ἀκόντιον
+spata ςπάθη
+
+gladius Ξίφος
+
+scutum ἀςπὶς καὶ ςάκος
+sagitta βέλος
+
+arcum τόξον
+
+hostes πολέμιοι
+
+pugna πόλεμος
+
+rixa μάχη
+
+tumultus θόρυβος
+insidiae ἐνέδραι
+
+fuga φυγή
+
+captiui αἰχμάλωτοι
+custodia φυλακή
+praeda ληΐδα
+
+spolia ςκῦλα
+
+obsides ὅμηροι
+protector ὑπεραςπιςτής
+
+45
+
+50
+
+55
+
+GO
+
+65
+
+70
+
+'15
+
+80
+

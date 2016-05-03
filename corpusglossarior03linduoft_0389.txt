@@ -1,0 +1,116 @@
+10
+
+20
+
+25
+
+de caelo περὶ οὐρανοῦ
+caelum οὐρανός
+stellae ἀςτέρες
+
+nubila νεφέλαι
+
+nebula ὁμίχλη
+serenum εὐδία
+subnubilum ἐπινέφελον
+nimbus ὄμβρος
+
+pluuia βροχετός
+stillicidium ςταλαγμός
+ros δρόςος
+
+guttae ςταγόνες
+
+nix χιών
+
+gelus παγετός
+
+5 frigus ψύχος
+
+scoruscatio ἀςτραπή
+tonitruum βροντή
+fulmen κεραυνός
+nox νύξ
+
+tenebrae ςκοτία
+sero ὀψέ
+
+mane πρωΐ
+hodie ςήμερον
+cras αὔριον
+
+dies ἡμέρα
+
+lux φῶς
+
+iterum de caelo περὶ οὐρανοῦ
+
+caelum οὐρανός
+nubes νέφη
+
+30 caligo ἀμαυρία
+
+nebula ὁμίχλη
+stellae ἀςτέρες
+
+ros δρόςος
+
+nubilum ἐπινέφελον
+imber ὄμβρος
+
+uapor ἀτμίς
+
+umor ἰκμάς
+
+pluuia ὑετός
+
+pluuit βρέχει
+
+serenum εὐδία
+tranquillitas γαλήνη
+frigus ψύχος
+
+nix χιών
+
+niuet χιονίζει
+
+glacies κρύςταλλος
+pruina πάχνη
+
+gelus παγετός
+
+stella ἀςτήρ
+
+hiemps χειμών
+
+uer ἔαρ
+
+aestus θέρος
+autumnus φθινόπωρον
+calor θερμαςία
+
+annus ἐνιαυτός
+
+mensis μήν
+
+dies ἡμέρα
+
+nox νύξ
+
+media nox μεςονύκτιον
+gallicinium ἀλεκτροφώνιον
+post prandium μετὰ ,ἄριςτον
+meridie δειέλῃ
+uespera ἑςπέρα
+tenebrae ςκοτὶαι
+aequinoctium ἰςονύκτιον
+solstitium ἡλιοςταςία
+
+40
+
+45
+
+6 Ο
+
+65
+

@@ -1,0 +1,128 @@
+HERMENEVMA TA STEPHANI
+
+ornatrices κοςμήτριαι
+sagittarius τοξευτής
+strigillarius Ξυςτροποιός
+textor ὑφάντης
+
+5 saltator ὀρχηςτής
+tornator τορνευτής
+tonsor κουρευτής
+tector tignarius ςτεγαςτὴς τέκτων
+faber ferrarius ςιδηριουργός
+
+10 faber figulator κεραμεύς
+fullo γναφεύς
+foenerator δανειςτής
+furnarius ἰπνοποιός
+faber naualis ναυπηγός
+
+15 agrimensor γεωμέτρης
+fictor πλάςτης
+sigillarius ἀγαλματοποιός
+aeborarius ἐλεφαντουργός
+interrasor διαρινητής
+
+20 celator τορνευτής
+bracharius πεταλοποιός
+purpurarius πορφυροπώλης
+tinctor βαφεύς
+seplatiarius μυροπώλης
+
+25 pigmentarius φαρμακοπώλης
+nummularius τραπεζίτης
+ualuarius δομοτέκτων
+membranarius διφθεροποιός
+claustr-arius κλειδοποιός
+
+3ο clauarius ἡλοκόπος
+loricarius Θωρακοποιός
+uitrarius ὑαλουργός
+tabernarius ἑργαςτηριάρχης
+natator κολυμβητής
+
+35 uenator κυνηγέτης
+altiliarius ὀρνεοτρόφος
+pometarius ὀπωροπώλης
+oleator λαχανοπωλης
+mulomeclicus ἱππίατρος
+
+40 mulicurius ἡμιονοκουρος
+molinarius ὑδραλέτης
+
+371
+
+(19 temporibus περὶ χρόνων
+
+tempus χρόνος
+
+hora ὥρα
+
+punctum ςτιγμή 45
+momentum ῥοπή
+
+mensis μήν
+
+annus ἐνιαυτός
+
+biennium διετία
+
+triennium τριετία 50
+in futurum εἰς τὸ μέλλον
+
+(19 diebus festis περὶ ἡμερῶν βιωτων
+(lies festus ἑορτή
+
+feriae ἀργίαῑ
+
+saturnalia κρόνια
+
+liberalia διονύςια
+
+neptunalia ἐφέςτια
+
+cara cognatio τιμηςυνγενια
+terminalia ὀποντηςια
+
+Uestalia θεριαι 60
+cena pura παραςκευή
+
+nundinae ενιαι
+
+natalis γενέθλιον
+
+(19 spectaculis περὶ Θεωριῶν
+
+spectaculum Θεωρία αὖ
+
+spectatores θεωρίται
+
+theatrum Θέατρον
+
+odiuum ὠδεῖον
+
+scaena ςκηνή
+
+tubicines κήρυκες 70
+
+pueruli πῑεαυοη
+
+coraule χοροαυλη
+
+comoed-i κωμῳδοί
+
+citharoedi κιθαρῳδοί
+
+saltator ὀρχηςτής 75
+
+chorus χορός
+
+cantatores τραγωδητοι
+
+fistulator ςυριςτής
+
+organarius ὑοραύλης
+
+trachiclii τραγῳδοί 80
+24*
+

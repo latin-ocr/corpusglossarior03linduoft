@@ -1,0 +1,137 @@
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+HERMENEVMATA STEPHANI
+
+uulnerarius τετρωτος
+herbarius βοτανικός
+ocularius ὀφθαλμικός
+
+cura Θεραπεία
+
+circitura περιοδία
+
+eger νοςερός
+
+pulsus uenae φλευτμονος
+febris πυρετός
+
+febris acuta πυρετὸς ὀξύς
+infirmitas νοθορετης
+accessio εἰςβολή
+
+status ἀκμή
+
+declinatio ὑπολήγουςα
+conduplicatio ςυναναδίπλωςις
+continuatio ςυνθεςία
+reliquiae καταλείμματα
+laxamentum χάλαςμα
+alleuatio κούφιςμα
+
+sine febre ἀπυρετία
+sinceritas εἰλικρίνεια
+repetitio ἐπιτροπιαςμός
+sudor ἱδρώς
+
+fomentum ἐνβροχή
+adiuuamcntum βοήθημα
+medicamentum φάρμακον
+frenetis φρενῖτις
+
+ardor καῦςις
+
+capitis dolor κεφαλαργία
+lateris dolor περιπλευμονία
+pulmonis ualitudo πλευρῖτις
+cordis ualitudo καρδιακὸς πόνος
+suffocatio ςυναγεθη
+contractio παράλυςις
+defectio λιποθυμία
+
+insania μανία
+
+tussis βήξ
+
+tabes τῆξις
+
+debilitas παράλυςις
+tertiana τριταῖον
+
+40 quartana τεταρταῖον
+
+cotidiana καθημερινὰ
+
+suspecta ὕποπτος
+renium ualitudo νεφρῖτις
+calculosus λιθιῶν
+tormenta ςτρανγαλίαι
+cruditas απιελπειςια
+splenicus ςπληνικός
+hydropicus ὑδρωπικὸς
+sanguinis missio φλεβοτομία
+sectio διαίρεςις
+circuncisio περιαίρεςις
+uulnus δλειμα
+carbunculus ἀνθράκιον
+1111101· ἰχώρ
+
+exarticulatio ἐξάρθρημα
+articuli dolor ἀρθρῑτις
+
+, hernia κήλη
+
+collectio ἀπόςτημα
+pustula ψυδράκιον
+acrimonia εξεθηματον
+enisacrum ἐρυςίπελας
+inflatio ἐμφύςημα
+feruura φλεγμονή
+dolor πόνος
+furunculum δοθιήν
+hordiolum κριθάριον
+sinus κόλφος
+scabiola ψώρα
+
+uua ςταφυλή
+
+tinea ςής
+
+lac-rimae δάκρυα
+turbatio τάραχος
+orbatio τύφλωςις
+inunctio ἕνχριςις
+uisitare ἐπιςκέψαι
+immortalia ἀθανάςια
+ignis πῦρ
+
+de carne περὶ κρεῶν >
+
+¹ caro κρέας
+
+porcina χοίρειον
+lactantina γαλαθηνόν
+
+363
+
+50
+
+‹30
+
+65
+
+70
+
+75
+
+80
+

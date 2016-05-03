@@ -1,0 +1,132 @@
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+362 HERMENE VMATA STEPHANI
+
+lea λέαινα
+
+porcus χοῖρος
+
+strutio ςτρουΘοκάμηλος
+talpa ἀςφάλαξ
+
+de aedibus περὶ ναῶν
+aedes ναός
+
+sacrum ἱερόν
+uestibulum πρόναον
+ara βωμός
+
+sacrificium Θυςία
+hostia θῦμα
+turibulum θυμιατήριον
+corona ςτέφανος
+simulacra Ξόανα
+imagines εἰκόνες
+dona χάριςμα
+sacerdos ἱερεύς
+popinarius Θύτης
+uictimarius μοςχοτόμος
+diuinus μάντις
+hariolus προφήτης
+edituus νεωκόρος
+
+tus λίβανος
+
+augur οἰωνιςτής
+flamen πειροςις
+pontifex ἱερομνήμων
+fetiales ςπονδοφόροι
+
+de magistratibus περὶ ἀρχόντων
+magistratus ἄρχων
+princeps πρωτοπολίτης
+rex βαςιλεύς
+
+regina βαςίλιςςα
+imperator αὐτοκράτωρ
+augustus ςεβαςτός
+senatus ςύνκλητος
+senator ςυνκλητικός
+consul ὕπατος
+proconsole ἀνθύπατος
+praefectus ἔπαρχος
+
+praetor ςτρατηγός
+propraetore ἀντιςτράτηγος
+consularis καθολικός
+rationalis λογικός
+
+curator φροντιςτὴς καὶ λογιςτής
+
+dux ἡγεμών
+
+questor ταμίας
+
+legatus πρεςβευτής
+censor τιμητής
+
+aedilis ἀγορονόμος
+iudex κριτής
+tribunusplebis δήμαρχος
+scriba γραμματεύς
+designator ἐπὶςημος
+descriptor διαγραφεύς
+augur οἰωνοςκόπος
+munerarius ἀγωνοθέτης
+decurio βουλευτής
+conuentus ςύνοδος
+paganus φυλέτης
+
+ouria βουλή
+
+comitiae ἀρχιαιρέςια
+designati ἐπίςημοι
+decretum ἐπίκριμα
+eonsilium κοινοβούλιον
+edietum διάταγμα
+
+lex νόμος
+
+aruspex Θύτης
+
+pontifex ἱερομνήμων
+rector ῥαβδοῦχος
+magister equitum ἵππαρχος
+flamen πρύτανις
+publicus δημόςιος
+quinquennalis πενταετηρικός
+reus ὑπόδικος
+
+patronus causae ςυνήγορος
+iuridieus ιαμας
+
+de medicina ἰατρική
+medicus ἰατρός
+Clinicus κλινικός
+
+-10
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+

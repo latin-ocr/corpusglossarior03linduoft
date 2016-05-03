@@ -1,0 +1,122 @@
+350
+
+nerui νεῦρα
+
+uenae φλέβες
+
+0333 ὀςτᾶ
+
+medulla ’μυελός
+5 stentinae ἔντερα
+
+sanguis αἷμα
+
+fel χολή
+
+alipe ςιχαρ
+
+omentum ἐπίπλοον
+10 caro ςάρξ
+
+pellis δέρμα
+
+iterum de membris humanis περὶ
+
+μελῶν ἀνθρωπίνων
+
+membra humana μέλη ἀνθρώπινα
+
+artus γυῖα
+15 caput κεφαλή
+capillus θρίξ
+
+capilli nigri, rufi, flaui, cani τρίχες
+μέλαιναι, Ξανθαί, πυρραὶ, πολιαί
+
+lanugo χνοῦς
+cicinni βόςτρυχοι
+20 crines πλόκαμοι
+caluaria κρανίον
+membranum ὑμήν
+uerbix κορυφή
+tempus κρόταφος
+25 tempora κρόταφοι
+frons μέτωπον
+01113111 ἑπιςκύνιον
+supercilia ὀφρύες
+palpebrae βλέφαρα
+30 genae ὑπώπια
+0011133 ὀφθαλμός
+00311 ὀφθαλμοί
+1111111113 ὅραςις
+pupilla κόρη
+
+35 anguli oculorum κανθοί
+
+lacrimae δάκρυα
+aures οὓς
+auriculae ωτανα
+
+H ERMEN EVMATA STEPHAN 1
+
+auditus ἀκοαί
+
+summa auricula πτερύγιον
+
+lannae λοβοί
+brumae παρωτίδες
+facies ὄψις
+
+uultus πρόςωπον
+ruga ῥυτίς
+lentigines φακοί
+nasus μυκτήρ
+nares ῥῖνες
+infranares μύςταξ
+cartilago τραγανον
+111313 παρειά
+bucca γνάθος
+buccae γνάθοι
+maxillae ςιαγόνες
+03 ςτόμα
+
+103101· ῥύγχος
+labium χεῖλος
+barba πώγων
+33113101113111 ἀνθερεών
+lingua γλῶςςα
+sublingua ὑπόγλωςςον
+palatum οὐρανίςκος
+dens ὁδούς
+
+dentes ὀδόντες
+03111111 κυνόδοντες
+molares μύλιοι
+maxillares γόμφοι
+gingiuae οὖλα
+risus γέλως
+occipitium ἰνίον
+ceruix αὐχήν
+00113111 τράχηλος
+11113 ςταφυλή
+1113311130 παρίςθμια
+fauces φάρυγγες
+gurgulio λάρυγξ
+gubila λαιμός
+iugulum κατακλείς
+umerus ὦμος
+
+40
+
+45
+
+50
+
+55
+
+60
+
+70
+
+75
+
